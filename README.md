@@ -4,7 +4,7 @@
 
 Distilled from the operating principles of **Sam Shvatsa** (CEO of acquisition.com, ex-Goldman Sachs, scaled Telos Properties from $300M to $3.4B in 5 years), shaped into a 33-file framework you can drop straight into Claude, ChatGPT, Cursor, or any AI assistant — and put to work today.
 
-Curated and published by **[FinLabs LLC](https://finlabs.example)** as a gift to the founder community.
+Curated and published by **[FYN Labs LLC](https://fyn-labs.com)** as a gift to the founder community.
 
 ---
 
@@ -174,9 +174,9 @@ You can use, modify, distribute, and build on this — commercially or non-comme
 
 ## Maintainer
 
-Curated by **[FinLabs LLC](https://finlabs.example)** — we work with founders who want to deploy AI as a real co-pilot inside their business, not as a chatbot decoration.
+Curated by **[FYN Labs LLC](https://fyn-labs.com)** — we work with founders who want to deploy AI as a real co-pilot inside their business, not as a chatbot decoration.
 
-Reach out: [marketing@mathiasheinke.de](mailto:marketing@mathiasheinke.de)
+Reach out: [support@fyn-labs.com](mailto:support@fyn-labs.com)
 
 ---
 
