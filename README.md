@@ -8,6 +8,40 @@ Curated and published by **[FYN Labs LLC](https://fyn-labs.com)** as a gift to t
 
 ---
 
+## Where this fits
+
+AI Business Blueprint is the **diagnostic layer**.
+
+Use it to understand:
+
+- where your business is actually stuck
+- what your customers really buy
+- which bottleneck matters first
+- what should be simplified before you scale
+- whether AI can help your company or only decorate chaos
+
+It is not a done-for-you implementation, a task system, or an automated AI
+company by itself.
+
+For founders who want the operating layer installed for real, FYN Labs is
+building **Company.OS**: a done-for-you AI operating system implementation for
+small companies, agencies, service businesses, and founder-led teams.
+
+The path is:
+
+```text
+AI Business Blueprint
+-> Company.OS Readiness Audit
+-> AI/GDPR/governance gap map
+-> first department rollout
+-> done-for-you operating system implementation
+```
+
+If you want that level of implementation, start with a Company.OS Readiness
+Audit: [support@fyn-labs.com](mailto:support@fyn-labs.com)
+
+---
+
 ## What you get
 
 A complete decision-and-execution OS, organized into 9 modules:

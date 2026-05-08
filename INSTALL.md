@@ -171,6 +171,37 @@ The Blueprint is most powerful when used in a rhythm, not a one-off:
 
 ---
 
+## When you need implementation, not just diagnosis
+
+This repo helps you diagnose and simplify the business. It does not install an
+AI operating system into your company.
+
+If the Blueprint shows that your company has a real bottleneck, repeatable
+workflows, and a safe first department wedge, the next step is a **Company.OS
+Readiness Audit** by FYN Labs.
+
+The audit checks:
+
+- current AI usage and tool sprawl
+- GDPR / privacy / governance risks
+- which workflows can safely use AI first
+- what should stay human-gated
+- the likely first department rollout
+- a savings and capacity range, not a guaranteed claim
+
+Typical path:
+
+```text
+Blueprint self-diagnosis
+-> Company.OS Readiness Audit
+-> first department pilot
+-> done-for-you Company.OS implementation
+```
+
+Contact: [support@fyn-labs.com](mailto:support@fyn-labs.com)
+
+---
+
 ## Troubleshooting
 
 **"My AI keeps giving generic advice."**
